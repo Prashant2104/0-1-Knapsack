@@ -1,0 +1,2 @@
+D:\Sem-4\ADA\01 knapsack\Debug\01 knapsack.exe
+D:\Sem-4\ADA\01 knapsack\Debug\01 knapsack.pdb
